@@ -1,0 +1,72 @@
+
+body {
+  background-image: url("bees.gif");
+  background-size: 150px;
+  background-repeat: repeat;
+  background-position:bottom;
+  margin-center: 200px;
+  background-color: darkseagreen;
+}
+
+pre{
+  text-align: center;
+  border-style: dotted;
+  border-width: 1px;
+  border-color: lightcoral;
+  padding:10px;
+  border-width: 10px;
+
+font-family: cursive, sans-serif;
+color: white;
+}
+
+pre{
+font-family: cursive, sans-serif;
+color: white;
+}
+
+.p-color{
+color: powderblue
+}
+
+
+h1 {
+color:white;
+text-align:center;
+text-decoration: underline overline;
+text-decoration: underline overline solid powderblue 25%;
+text-shadow: 2px 2px lightcoral;
+transition:all 3s
+}
+
+h2 {
+color:powderblue;
+text-align:center;
+text-decoration: underline overline;
+text-decoration: underline overline solid white 25%;
+ text-shadow: 2px 2px lightcoral;
+}
+
+h3 {
+color:white;
+text-align:center;
+text-decoration: underline overline;
+text-decoration: underline overline solid powderblue 25%;
+ text-shadow: 2px 2px lightcoral;
+}
+
+h4 {
+color:powderblue;
+text-align:center;
+text-decoration: underline overline;
+text-decoration: underline overline solid white 25%;
+text-shadow: 2px 2px lightcoral;
+}
+
+h5 {
+color:white;
+text-align:center;
+text-decoration: underline overline;
+text-decoration: underline overline solid powderblue 25%;
+text-shadow: 2px 2px lightcoral;
+}
